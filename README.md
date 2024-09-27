@@ -32,4 +32,11 @@ Client Request
  - Create a dashboard for the retention manager reflecting the KPIs
  - Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed
 ### Task 4 : Diversity & Inclusion
-   Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation
+   Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation.
+   - **KPI 1 :** Hiring
+   - **KPI 2 :** Promotions
+   - **KPI 3 :** Turnover Rate
+   - **KPI 4 :** Performance Rating
+   - **KPI 5 :** Executive Gender Balance
+   - **KPI 6 :** Age Group
+   
