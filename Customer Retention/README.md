@@ -1,5 +1,5 @@
 # Data Set Introduction
-It is Call Centre dataset which contains 162K rows and 23 column attributes.
+It is Churn dataset which contains 162K rows and 23 column attributes.
 ### The column attributes are as follows :
 - **Cutomer ID :** Contains the customer IDs in alphanumeric format.
 - **Gender :** Male/Female.
