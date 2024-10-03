@@ -26,11 +26,14 @@ Client Request
 - Calls by time
 - Average speed of answer
 - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+![Screenshot 2024-09-24 150853](https://github.com/user-attachments/assets/04973f84-3716-43c7-8c0a-3b1dd99e988c)
 
 ### Task 3 : Customer Retention
  - Define proper KPIs
  - Create a dashboard for the retention manager reflecting the KPIs
  - Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed
+![Screenshot 2024-09-24 151501](https://github.com/user-attachments/assets/3453c9e7-f333-463a-9228-a3cf6564160a)
+
 ### Task 4 : Diversity & Inclusion
    Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation.
    - **KPI 1 :** Hiring
@@ -39,4 +42,6 @@ Client Request
    - **KPI 4 :** Performance Rating
    - **KPI 5 :** Executive Gender Balance
    - **KPI 6 :** Age Group
-   
+   ![Screenshot 2024-09-24 152046](https://github.com/user-attachments/assets/ce8363be-ae6d-4ce1-b549-7fd6704bd923)
+![Screenshot 2024-09-24 152121](https://github.com/user-attachments/assets/dc2a34b9-5835-4001-9693-76ca45e37639)
+
