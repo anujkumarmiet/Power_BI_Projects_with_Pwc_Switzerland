@@ -10,7 +10,7 @@ Such as :
 • Leveraged analytical problem-solving skills to examine HR data, particularly focusing on gender-related KPIs, and identified root causes for gender balance issues at the executive management level, highlighting a commitment to data-driven decision-making.
 
 ## Targated Tasks
-All three four tasks that we have in this project are as follows :
+All four tasks that we have in this project are as follows :
 ### Task 1 :
 Learn the importance of digital transformation of upskilling in today's business landscape.
 ### Task 2 : Call Centre Trends
