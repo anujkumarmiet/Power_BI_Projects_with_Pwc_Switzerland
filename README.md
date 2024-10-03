@@ -26,7 +26,8 @@ Client Request
 - Calls by time
 - Average speed of answer
 - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
-![Screenshot 2024-09-24 150853](https://github.com/user-attachments/assets/04973f84-3716-43c7-8c0a-3b1dd99e988c)
+  ![Screenshot 2024-09-24 150853](https://github.com/user-attachments/assets/19c29739-6201-41d8-bacb-9e6fdc970f14)
+
 
 ### Task 3 : Customer Retention
  - Define proper KPIs
